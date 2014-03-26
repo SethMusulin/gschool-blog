@@ -24,3 +24,6 @@ to your environment….well, let’s just say that your going to flop on stage.
 
 For now, we get to flop in front of our encouraging brethren and sistren, but you get the feeling that the real
 world won’t be so forgiving.
+
+
+http://youtu.be/a4hFwJm41h4
