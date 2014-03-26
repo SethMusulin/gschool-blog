@@ -1,6 +1,6 @@
 ---
-title: gSchool - here’s your head at?
-
+title: Where's your head at?
+date: 2014-03-26 16:52 UTC
 tags: Sinatra, web apps
 ---
 
