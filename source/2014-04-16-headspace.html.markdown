@@ -1,6 +1,6 @@
 ---
 title: Headspace
-date: 2014-03-18 22:41 UTC
+date: 2014-04-16
 tags: emotional competency, developer stereotype
 ---
 
