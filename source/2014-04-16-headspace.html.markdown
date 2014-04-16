@@ -1,4 +1,8 @@
-Head Space
+---
+title: Headspace
+date: 2014-03-18 22:41 UTC
+tags: emotional competency, developer stereotype
+---
 
 One of the things that continues to surprise me about learning to become a developer is the fact
 that nothing is as it seemed at the beginning.  Even when you start to grasp (grok?) concepts that
